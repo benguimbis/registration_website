@@ -11,7 +11,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Attention** - Tous les enregistrements devront se faire avant le **15 août 2024**"
+    content: "**Attention** - La période d'enregistrement est prolongée au  **31 août 2024**"
     type: warning
     position: above-navbar
   repo-url: https://github.com/benguimbis/registration_website
@@ -84,3 +84,10 @@ format:
 
 execute:
   freeze: auto
+
+lang: fr
+
+language: 
+  fr:
+    title-block-published: "Mis à jour"
+  

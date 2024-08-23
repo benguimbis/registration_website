@@ -7,6 +7,7 @@ format:
     toc: true
     toc-title: "Aller à"
 title-block-banner: false
+date-modified: last-modified
 execute: 
   echo: false
 ---
@@ -33,13 +34,67 @@ NB : **Il est formellement déconseillé d’entreprendre le voyage sur Kinshasa
 **Passeport valable six mois** : Les voyageurs ne seront pas autorisés à franchir les frontières Congolaises si leur passeport n'a pas une date d'expiration minimale d'au moins six mois après le dernier jour du voyage. 
 
 
+### Santé
 
-
-### Vaccins Obligatoires 
+#### Vaccins Obligatoires 
 
 Les voyageurs entrant en RDC en provenance de pays désignés par l'OMS comme présentant un risque de transmission du virus de la fièvre jaune (YFV) doivent présenter leur certificat international de vaccination en cours de validité approuvé par l'Organisation mondiale de la santé (OMS) (carte jaune).
 
 Pour les participants venant d’un pays exempt de paludisme, il est vivement recommandé de prendre une prophylaxie contre le paludisme, du répulsif anti-moustique et une pommade contre les piqures éventuelles sont également conseillés.
+
+#### Épidémie de Monkeypox
+
+* **Situation actuelle en RDC**
+
+La République Démocratique du Congo (RDC) est un pays endémique pour le mpox, avec des rapports récents indiquant une augmentation des cas. Au cours de la semaine 32 de 2024, 1 026 nouveaux cas suspects ont été enregistrés, accompagnés de 27 nouveaux décès, ce qui porte le taux de létalité à 2,6 %. À Kinshasa, la situation est relativement moins sévère comparée à d'autres régions du pays.  
+
+L'Organisation Mondiale de la Santé (OMS) soutient activement les efforts de riposte en RDC, en mettant en œuvre des stratégies pour limiter la propagation de la maladie et en fournissant un soutien technique et opérationnel aux autorités locales. Ces mesures incluent des campagnes de sensibilisation, la mise en place de centres de traitement, et la surveillance continue de l’épidémie.
+
+* **Informations générales sur le Mpox (Monkeypox)** 
+
+Le mpox, ou variole du singe, est une maladie virale rare causée par un orthopoxvirus de la famille des Poxviridae. Il existe deux clades principaux du virus : 
+
+  * Clade I : Connu auparavant sous le nom de clade du Bassin du Congo, il est historiquement plus virulent, avec un taux de létalité variant entre 1 % et 10 %. 
+
+  * Clade II : Précédemment appelé clade d'Afrique de l'Ouest avec un taux de létalité < 3%. 
+
+Le virus a été découvert pour la première fois en 1958 chez des singes de laboratoire. Le premier cas humain a été signalé en 1970 en République Démocratique du Congo (RDC). 
+
+* **Modes de Transmission** 
+
+Le mpox se transmet par plusieurs voies:  
+
+  * Transmission zoonotique : Le virus est principalement transmis des animaux infectés aux humains, notamment par morsures ou griffures d'animaux comme les primates, les rongeurs, les antilopes, les gazelles et les écureuils. La transmission peut également survenir lors d'activités telles que la chasse, le dépouillage, le piégeage, la cuisson et la consommation de viande. L'étendue de la circulation virale chez les animaux reste encore mal comprise. 
+
+  * Transmission interhumaine : Entre personnes, le mpox se propage par contact direct avec la peau ou les lésions cutanéo-muqueuses d'une personne infectée. Cela inclut les contacts étroits tels que peau à peau, ainsi que la transmission par inhalation de gouttelettes respiratoires. La possibilité de transmission par aérosols à faible portée est encore en cours d'évaluation. 
+
+ * Contact avec des objets contaminés : Le virus peut aussi se transmettre par contact avec des objets contaminés, comme des vêtements ou du linge de lit, ayant été en contact avec les fluides corporels ou les lésions d'une personne infectée. 
+
+ * Transmission in utero : La transmission de l'orthopoxvirus simien de la mère à l'enfant pendant la grossesse a été documentée, avec des issues variées telles que la naissance d'un nourrisson en bonne santé, des avortements spontanés, ou une mort fœtale, comme observé dans un cas où l’enfant mort-né présentait une éruption cutanée confirmée comme étant 
+
+ 
+
+* **Symptômes et Signes Cliniques** 
+
+Les symptômes initiaux du mpox incluent une fièvre, des maux de tête, des douleurs musculaires et une fatigue générale. Ces symptômes sont suivis par l'apparition d'une éruption cutanée qui évolue progressivement en pustules avant de se transformer en croûtes. La période d'incubation de la maladie varie entre 5 et 21 jours. 
+
+ 
+
+* **Mesures de Prévention pour les Voyageurs** 
+
+Pour minimiser le risque de contracter le mpox, il est recommandé de rester informé des risques et des symptômes potentiels. Informez ouvertement vos contacts proches, y compris vos partenaires sexuels, sur les risques, sans mettre en danger votre sécurité. Il est également conseillé de ne pas consommer de viande de brousse et de maintenir une bonne hygiène des mains. De plus, il est recommandé de recevoir une primo-vaccination préventive si vous êtes dans un groupe à haut risque d'exposition. En cas de contact avec un cas confirmé, la vaccination préventive postexposition est efficace si administrée dans les quatre jours suivant l'exposition, et jusqu'à 14 jours en l'absence de symptômes. Les vaccins approuvés pour cette prévention incluent LC16-KMB, MVA-BN et OrthopoxVac, avec l'option d'utiliser également le vaccin ACAM2000. 
+
+Suivez les directives médicales et des autorités locales si vous êtes diagnostiqué, et ne partagez que des informations fiables sur la maladie. 
+
+* **Actions à Entreprendre en Cas de Symptômes** 
+
+En présence de symptômes suggestifs du mpox, il est crucial de consulter immédiatement un professionnel de santé. Il est également recommandé de s'isoler afin de prévenir la propagation du virus et d'informer les autorités sanitaires locales. Les participants à la réunion recevront une liste des centres de santé et des contacts d'urgence pour faciliter une prise en charge rapide. 
+
+ 
+
+Informations Supplémentaires 
+
+Pour obtenir des informations plus détaillées, vous pouvez consulter le site web de l'[OMS](https://www.who.int/news-room/fact-sheets/detail/monkeypox). Des mises à jour régulières sur la situation en RDC et les risques liés au mpox sont également disponibles [ici](https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON522). 
 
 
 ### Perdiem
