@@ -26,8 +26,18 @@ website:
         href: index.qmd
         icon: bi-house-door-fill
       - text: Enregistrements
-        href: epi/enregistrement.qmd
         icon: input-cursor-text
+        menu: 
+          - text: 'Enregistrements à la réunion'
+            href: epi/enregistrement.qmd
+          - text: 'Enregistrements journée 1'
+            href: epi/jour1.qmd
+          - text: 'Enregistrements journée 2'
+            href: epi/jour2.qmd            
+          - text: 'Enregistrements journée 3'
+            href: epi/jour3.qmd
+          - text: 'Enregistrements journée 4'
+            href: epi/jour4.qmd            
       - text: Agenda
         icon: calendar-date-fill
         menu: 

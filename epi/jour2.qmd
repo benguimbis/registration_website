@@ -1,0 +1,20 @@
+---
+title: "Journée du 10 septembre 2024 "
+description: "<strong>Enregistrement de la 2^e^ journée</strong>"
+#image: /static/img/business-time-solid.svg
+title-block-banner: false
+execute: 
+  echo: false
+---
+
+
+
+
+
+
+
+
+
+
+
+

@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Fri, 23 Aug 2024 08:47:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Sep 2024 17:11:10 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -501,11 +501,57 @@
 
 
 
+<div class="card-container">
+  <div class="card">
+    <h3 class="anchored">Mise à jour sur le suivi des recommandations de la réunion 2023 des directeurs PEV d'Afrique centrale</h3>
+    <p>Shalom Tchokfe Ndoula<br> (PEV Cameroun SP)</p>
+    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">GAVI: les nouvelles orientations</h3>
+    <p>Martin Morand<br>(Gavi)</p>
+    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Immunisation et Sauver des vies et des moyens de subsistance (SLL)</h3>
+    <p>Lucy Sembuche Senga<br>(Africa CDC)</p>
+    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
+    <p>Katja Schemionek <br>(OMS-HQ)</p>
+    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
+    <p>Adidja Amani<br>(Responsable des incidents AMVIRA)  </p>
+    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Situation des enfants zéro-dose et élaboration et mise en œuvre des plans de rattrapage en Afrique centrale </h3>
+    <p>Franck Mboussou &amp; Yolande Vuo-Masembe<br>(OMS IST-CA)</p>
+    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Vaccins pour le grand rattrapage : État des commandes pour les pays d'Afrique centrale et conseils de gestion </h3>
+    <p>Stéphanie Lapierre &amp; Célestin Traoré<br>(UNICEF WCARO)</p>
+    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Suivi et notification du rattrapage des vaccinations essentielles dans le cadre du grand rattrapage</h3>
+    <p>Carolina Danovaro<br>(OMS/HQ)</p>
+    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+  </div>
+
+</div>
+
+
+
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -517,10 +563,127 @@
 
 
 
+<div class="card-container">
+    <div class="card">
+      <h3 class="anchored">Mises à jour sur les nouveaux vaccins : hexavalent, DTP Boosters, etc.</h3>
+      <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
+      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+    <div class="card">
+      <h3 class="anchored">Introduction du vaccin anti-papillomavirus : évolution de la couverture vaccinale et guide de l'OMS sur le vaccin anti-papillomavirus à dose unique.</h3>
+      <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
+      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+      <div class="card">
+      <h3 class="anchored">HPV changement de calendrier de 2 à 1 dose et extension chez les garçons, intégration systématique à l'école</h3>
+      <p>Cameroun</p>
+      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+    <div class="card">
+      <h3 class="anchored">introduction du HepB0</h3>
+      <p>Burundi</p>
+      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+      <div class="card">
+      <h3 class="anchored">Introduction du Rota</h3>
+      <p>Congo</p>
+      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+    <div class="card">
+      <h3 class="anchored">Introduction du VPI</h3>
+      <p>Gabon<br>(OMS IST-CA)</p>
+      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+      <div class="card">
+      <h3 class="anchored">État de la mise en œuvre de l'engagement n° 2 de l'IDA : 
+        Accroître et pérenniser les investissements nationaux et les allocations budgétaires en faveur de la vaccination en Afrique</h3>
+      <p>Franck Mboussou &amp; Amos Petus<br>(OMS-AFRO)</p>
+      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+    <div class="card">
+      <h3 class="anchored">Plan de Mashako et Déclaration de Kinshasa</h3>
+      <p>RDV</p>
+      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+    </div>
+    <div class="card">
+        <h3 class="anchored">PFinancement durable de la vaccination</h3>
+        <p>Angola</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Gestion du financement public de la vaccination par les partenaires internationaux tels que l'OMS</h3>
+        <p>Guinée Équatoriale</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">financement public/ mécanisme d’achats groupés de vaccins</h3>
+        <p>Gabon</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">L'expérience de l'Amérique du Sud dans le déploiement des SVE et les recommandations pour la région africaine</h3>
+        <p>Carolina Danovaro<br> (OMS-HQ)</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Lignes directrices SMART et application à la surveillance du MPV</h3>
+        <p>Patricia Ndumbi<br>(Santé numérique, OMS-HQ)</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Utilisation des SIG dans l'identification des zones à risque pour les enfants à dose zéro</h3>
+        <p>Roland Ngom (PPHM, OMS-AFRO)</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">(planification et enregistrement des données par session de vaccination</h3>
+        <p>Cameroun</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Expérimentation du registre électronique</h3>
+        <p>Burundi</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Gestion de la campagne de vaccination contre la rougeole</h3>
+        <p>Burundi</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">succès de la stratégie urbaine mis en évidence par l'ECV</h3>
+        <p>RCA</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Enseignements tirés des enquêtes sur la couverture vaccinale </h3>
+        <p>Carolina Danovaro<br>(OMS-HQ)</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Leçons tirées des applications du FPP</h3>
+        <p>Gavi FD&amp;R</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
+        <p>AGBENU, Amavi Edinam</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+      <div class="card">
+        <h3 class="anchored">Contribution de GEV à la performance du PEV </h3>
+        <p>Claude Mangobo<br>(IST-CA)</p>
+        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
+      </div>
+  
+  </div>
+
+
+
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -535,7 +698,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -550,7 +713,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -574,7 +737,69 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 09 septembre 2024</title>
+  <link>https://benguimbis.github.io/registration_website/epi/jour1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUQUIzWTk4V0JTVzIzOTBMWlowRDZLWThERS4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+
+
+
+
+ ]]></description>
+  <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 10 septembre 2024</title>
+  <link>https://benguimbis.github.io/registration_website/epi/jour2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 11 septembre 2024</title>
+  <link>https://benguimbis.github.io/registration_website/epi/jour3.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 12 septembre 2024</title>
+  <link>https://benguimbis.github.io/registration_website/epi/jour4.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -717,7 +942,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Fri, 23 Aug 2024 08:47:10 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
 </item>
 </channel>
 </rss>

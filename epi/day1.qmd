@@ -14,7 +14,54 @@ execute:
 
 
 
+```{=html}
 
+<div class="card-container">
+  <div class="card">
+    <h3>Mise à jour sur le suivi des recommandations de la réunion 2023 des directeurs PEV d'Afrique centrale</h3>
+    <p>Shalom Tchokfe Ndoula<br> (PEV Cameroun SP)</p>
+    <a href="presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3>GAVI: les nouvelles orientations</h3>
+    <p>Martin Morand<br>(Gavi)</p>
+    <a href="/presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3>Immunisation et Sauver des vies et des moyens de subsistance (SLL)</h3>
+    <p>Lucy Sembuche Senga<br>(Africa CDC)</p>
+    <a href="presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3>Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
+    <p>Katja Schemionek <br>(OMS-HQ)</p>
+    <a href="/presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3>Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
+    <p>Adidja Amani<br>(Responsable des incidents AMVIRA)  </p>
+    <a href="presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3>Situation des enfants zéro-dose et élaboration et mise en œuvre des plans de rattrapage en Afrique centrale </h3>
+    <p>Franck Mboussou & Yolande Vuo-Masembe<br>(OMS IST-CA)</p>
+    <a href="/presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3>Vaccins pour le grand rattrapage : État des commandes pour les pays d'Afrique centrale et conseils de gestion </h3>
+    <p>Stéphanie Lapierre & Célestin Traoré<br>(UNICEF WCARO)</p>
+    <a href="presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3>Suivi et notification du rattrapage des vaccinations essentielles dans le cadre du grand rattrapage</h3>
+    <p>Carolina Danovaro<br>(OMS/HQ)</p>
+    <a href="/presentations/j1/.pptx" download>Télécharger la présentation</a>
+  </div>
+
+</div>
+
+
+```
 
 
 
