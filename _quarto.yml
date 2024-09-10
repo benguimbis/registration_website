@@ -38,10 +38,10 @@ website:
             href: epi/jour3.qmd
           - text: 'Enregistrements journée 4'
             href: epi/jour4.qmd            
-      - text: Agenda
+      - text: Agenda et Présentations
         icon: calendar-date-fill
         menu: 
-          - text: "Agenda et Présentations"
+          - text: "Agenda"
             href: epi/agenda.qmd
           - text: "Jour 1"
             href: epi/day1.qmd
