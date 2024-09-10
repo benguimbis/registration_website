@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Tue, 10 Sep 2024 11:37:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Sep 2024 14:18:24 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -520,7 +520,8 @@
   <div class="card">
     <h3 class="anchored">Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
     <p>Katja Schemionek <br>(OMS-HQ)</p>
-    <a href="presentations/j1/" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/PHC_Imm_Integration (French).pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j1/PHC_Imm_Integration.pptx" download="">Télécharger la présentation (EN)</a>
   </div>
     <div class="card">
     <h3 class="anchored">Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
@@ -551,7 +552,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -683,7 +684,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -698,7 +699,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -713,7 +714,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -739,7 +740,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -756,7 +757,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -773,7 +774,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -788,7 +789,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -803,7 +804,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -946,7 +947,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Tue, 10 Sep 2024 11:37:41 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 14:18:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
