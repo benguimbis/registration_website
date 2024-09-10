@@ -23,13 +23,14 @@ N’hésitez pas à nous contacter si vous avez des questions ou des préoccupat
 <br/>
 <br/>
 
-```{=html}
-<iframe width="1040px" height="980px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=t8AQ9iS9OUuBCz3CgK-1kEHXOoy_Mv1Go_LciJiVl5pUMUwzMUJLVkVaRUhINklUWDgzUlQ5UTVVMC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:980vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-```
+::: {.callout-danger}
+## Les enregistrements sont fermés, veuillez vous enregistrer pour la deuxieme journée
+
+[Enregistrements de la 2~e~ journée](epi/jour2.qmd)
 
 
-
+:::
 
 
 
