@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Sun, 08 Sep 2024 17:11:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Sep 2024 07:19:46 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -551,7 +551,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -683,7 +683,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -698,7 +698,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -713,7 +713,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -730,14 +730,16 @@
 <li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Envoyer”</strong> pour confirmer votre participation.</li>
 <li><strong>Téléchargez le calendrier</strong>: Accedez a la section <em>Other Links</em> et cliquez sur <strong>Télécharger Agenda</strong> (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.). N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement ! <br> <br> <br></li>
 </ul>
-<iframe width="1040px" height="980px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=t8AQ9iS9OUuBCz3CgK-1kEHXOoy_Mv1Go_LciJiVl5pUMUwzMUJLVkVaRUhINklUWDgzUlQ5UTVVMC4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:980vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
-
+<section id="les-enregistrements-sont-fermés-veuillez-vous-enregistrer-pour-la-deuxieme-journée" class="level2 callout-danger">
+<h2 class="anchored" data-anchor-id="les-enregistrements-sont-fermés-veuillez-vous-enregistrer-pour-la-deuxieme-journée">Les enregistrements sont fermés, veuillez vous enregistrer pour la deuxieme journée</h2>
+<p><a href="../epi/jour2.html">Enregistrements de la 2<sub>e</sub> journée</a></p>
+</section>
 
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -754,7 +756,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -764,12 +766,14 @@
 
 
 
+<iframe width="1040px" height="780px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUM0NSUE5HWVFTVzhHOU1FRFlQUjRMVjlBUy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+
 
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -784,7 +788,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -799,7 +803,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -942,7 +946,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Sun, 08 Sep 2024 17:11:10 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -27,7 +27,7 @@ N’hésitez pas à nous contacter si vous avez des questions ou des préoccupat
 ::: {.callout-danger}
 ## Les enregistrements sont fermés, veuillez vous enregistrer pour la deuxieme journée
 
-[Enregistrements de la 2~e~ journée](epi/jour2.qmd)
+[Enregistrements de la 2~e~ journée](jour2.qmd)
 
 
 :::
