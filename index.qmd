@@ -28,7 +28,7 @@ Nous espérons que cette plateforme enrichira votre expérience en vous permetta
 Bienvenue à tous et à toutes et nous vous souhaitons une réunion fructueuse et productive !
 
 
-**Liens Rapides:** &nbsp;&nbsp;&nbsp;[Inscription](epi/day2.qmd){.btn .btn-outline-primary .button-styling .btn role="button" data-toggle="tooltip" title="Je' m'enregistre"}
+**Liens Rapides:** &nbsp;&nbsp;&nbsp;[Enregistrement J2](epi/day2.qmd){.btn .btn-outline-primary .button-styling .btn role="button" data-toggle="tooltip" title="Je' m'enregistre"}
 
 
 

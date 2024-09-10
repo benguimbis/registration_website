@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Tue, 10 Sep 2024 07:19:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Sep 2024 09:05:42 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -505,42 +505,42 @@
   <div class="card">
     <h3 class="anchored">Mise à jour sur le suivi des recommandations de la réunion 2023 des directeurs PEV d'Afrique centrale</h3>
     <p>Shalom Tchokfe Ndoula<br> (PEV Cameroun SP)</p>
-    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/Suivi des recommandations de la réunion de Douala 2023.pptx" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">GAVI: les nouvelles orientations</h3>
     <p>Martin Morand<br>(Gavi)</p>
-    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/gaviupdate.pdf" download="">Télécharger la présentation</a>
   </div>
     <div class="card">
     <h3 class="anchored">Immunisation et Sauver des vies et des moyens de subsistance (SLL)</h3>
     <p>Lucy Sembuche Senga<br>(Africa CDC)</p>
-    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
     <p>Katja Schemionek <br>(OMS-HQ)</p>
-    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/" download="">Télécharger la présentation</a>
   </div>
     <div class="card">
     <h3 class="anchored">Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
     <p>Adidja Amani<br>(Responsable des incidents AMVIRA)  </p>
-    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/AMANI CA_EPI MANAGERS MEETING.pptx" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">Situation des enfants zéro-dose et élaboration et mise en œuvre des plans de rattrapage en Afrique centrale </h3>
     <p>Franck Mboussou &amp; Yolande Vuo-Masembe<br>(OMS IST-CA)</p>
-    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/situationZD.pptx" download="">Télécharger la présentation</a>
   </div>
     <div class="card">
     <h3 class="anchored">Vaccins pour le grand rattrapage : État des commandes pour les pays d'Afrique centrale et conseils de gestion </h3>
     <p>Stéphanie Lapierre &amp; Célestin Traoré<br>(UNICEF WCARO)</p>
-    <a href="presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/vaccin pour le grand rattrapage_etat des commandes pour les pays d Afrique.pptx" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">Suivi et notification du rattrapage des vaccinations essentielles dans le cadre du grand rattrapage</h3>
     <p>Carolina Danovaro<br>(OMS/HQ)</p>
-    <a href="../presentations/j1/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/bcume.pptx" download="">Télécharger la présentation</a>
   </div>
 
 </div>
@@ -551,7 +551,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -683,7 +683,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -698,7 +698,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -713,7 +713,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -739,7 +739,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -756,7 +756,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -773,7 +773,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -788,7 +788,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -803,7 +803,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -946,7 +946,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Tue, 10 Sep 2024 07:19:46 GMT</pubDate>
+  <pubDate>Tue, 10 Sep 2024 09:05:42 GMT</pubDate>
 </item>
 </channel>
 </rss>

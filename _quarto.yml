@@ -41,7 +41,7 @@ website:
       - text: Agenda
         icon: calendar-date-fill
         menu: 
-          - text: "Agenda de la Réunion"
+          - text: "Agenda et Présentations"
             href: epi/agenda.qmd
           - text: "Jour 1"
             href: epi/day1.qmd
