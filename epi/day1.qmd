@@ -30,7 +30,7 @@ execute:
     <div class="card">
     <h3>Immunisation et Sauver des vies et des moyens de subsistance (SLL)</h3>
     <p>Lucy Sembuche Senga<br>(Africa CDC)</p>
-    <a href="presentations/j1/" download>Télécharger la présentation</a>
+    <a href="presentations/j1/ssl.pptx" download>Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3>Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
