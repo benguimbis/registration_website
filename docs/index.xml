@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Wed, 11 Sep 2024 07:47:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Sep 2024 09:15:33 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -552,7 +552,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -684,7 +684,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -695,11 +695,89 @@
 
 
 
+<div class="card-container">
+  <div class="card">
+    <h3 class="anchored">Orientations mondiales sur la SPV et le genre </h3>
+    <p>Carole Tevi Benissan <br> (OMS-HQ)</p>
+    <a href="presentations/j3/1_Genre et vaccination_French_ EPI MM_CA_2024_Final.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Présentations des panélistes nationaux sur l'intégration de la dimension de genre dans les programmes VPD </h3>
+    <p>Angola<br>STP<br>RDC<br>RCA</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">État de la situation de la rougeole en Afrique centrale et paysage du financement de la riposte</h3>
+    <p>Edie-Alain Kemenang<br>(OMS IST-CA)<br>Alice Wimmer<br>(OMS-HQ)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Présentation des panélistes nationaux sur la détection et la réponse aux épidémies de rougeole </h3>
+    <p>RDC<br>Cameroun<br>Guinée Eq<br>Burundi<br>Tchad</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j3/CMR_Panel détection et réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (CMR)</a>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation (EN)</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Progrès réalisés dans l’éradication et transition polio en Afrique centrale</h3>
+    <p>Sama Ainan &amp;A issata Diaha<br>(OMS AFRO) </p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Recommandations de SAGE sur les vaccins Mpox </h3>
+    <p>DOSHI Reena <br>(OMS)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Expérience de la RDC dans le déploiement des vaccins contre Mpox </h3>
+    <p>PEV RDC</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Progrès dans la mise en œuvre de la déclaration d’Addis sur la vaccination</h3>
+    <p>Dieudonné Hazimana <br>(AUC)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Démonstration sur le Dashboard et socrecards sur la  déclaration d’Addis sur la vaccination</h3>
+    <p>Franck Mboussou <br>(IST-CA)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Eradication et transistion polio</h3>
+    <p>Sama Ainan &amp; Aissata Diaha <br>(OMS AFRO)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Gavi 6.0 et évolution des partenariats</h3>
+    <p>Florence Conteh-Nordman<br>(Gavi)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Vaccination des populations spéciales et en contexte humanitaire</h3>
+    <p>Marcellin Nimpa (OMS) &amp; GAVI</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
+    <p>Edinam Agbenu<br>(OMS IST CA)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+</div>
+
+
+
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -714,7 +792,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -740,7 +818,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -757,7 +835,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -774,7 +852,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -792,7 +870,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -807,7 +885,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -950,7 +1028,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Wed, 11 Sep 2024 07:47:04 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 09:15:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
