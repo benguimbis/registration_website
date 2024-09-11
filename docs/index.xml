@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Wed, 11 Sep 2024 11:44:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Sep 2024 13:26:32 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -552,7 +552,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -684,7 +684,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -714,7 +714,8 @@
     <h3 class="anchored">État de la situation de la rougeole en Afrique centrale et paysage du financement de la riposte</h3>
     <p>Edie-Alain Kemenang<br>(OMS IST-CA)<br>Alice Wimmer<br>(OMS-HQ)</p>
     <a href="presentations/j3/measles_presentation.pptx" download="">Télécharger la présentation(Surveillance)</a>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation(Financement)</a>
+    <a href="presentations/j3/measles outbreak financing EPI.pptx" download="">Télécharger la présentation(Financement)</a>
+    <a href="presentations/j3/complement_rougeole.zip" download="">Télécharger les compléments à la présentation(Financement)</a>
   </div>
   <div class="card">
     <h3 class="anchored">Présentation des panélistes nationaux sur la détection et la réponse aux épidémies de rougeole </h3>
@@ -723,7 +724,7 @@
     <a href="presentations/j3/CMR_Panel détection et réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (CMR)</a>
     <a href="presentations/j3/Panel_EQG_Détection et la réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (EQG)</a>
     <a href="presentations/j3/Situation de la rougeole au Burundi.pptx" download="">Télécharger la présentation (Burundi)</a>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation (EN)</a>
+    <a href="presentations/j3/Presentation  Panel Tchad Reunion des Directeurs.pptx" download="">Télécharger la présentation (Tchad)</a>
   </div>
     <div class="card">
     <h3 class="anchored">Progrès réalisés dans l’éradication et transition polio en Afrique centrale</h3>
@@ -738,7 +739,7 @@
     <div class="card">
     <h3 class="anchored">Expérience de la RDC dans le déploiement des vaccins contre Mpox </h3>
     <p>PEV RDC</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/mpox_RDC.pptx" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">Progrès dans la mise en œuvre de la déclaration d’Addis sur la vaccination</h3>
@@ -778,7 +779,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -793,7 +794,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -819,7 +820,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -836,7 +837,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -853,7 +854,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -871,7 +872,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -886,7 +887,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1029,7 +1030,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 13:26:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
