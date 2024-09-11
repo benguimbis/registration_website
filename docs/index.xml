@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Wed, 11 Sep 2024 11:20:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Sep 2024 11:44:26 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -552,7 +552,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -684,7 +684,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -707,7 +707,7 @@
     <a href="presentations/j3/dimensão de género nos programas de vacinação FR.pptx" download="">Télécharger la présentation(Angola)</a>
     <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
     <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
-    <a href="presentations/j3/RDC_J3-P5_VPD et Equité-Genre_ l_intégration de la dimension de genre dans les programmes VPD.pptx" download="">Télécharger la présentation(RDC)</a>
+    <a href="presentations/j3/genre_rdc.pptx" download="">Télécharger la présentation(RDC)</a>
     <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
   </div>
     <div class="card">
@@ -778,7 +778,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -793,7 +793,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -819,7 +819,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -836,7 +836,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -853,7 +853,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -871,7 +871,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -886,7 +886,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1029,7 +1029,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Wed, 11 Sep 2024 11:20:53 GMT</pubDate>
+  <pubDate>Wed, 11 Sep 2024 11:44:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
