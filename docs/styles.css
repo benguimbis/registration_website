@@ -39,3 +39,51 @@
 .card a:hover {
   text-decoration: underline;
 }
+
+
+
+
+/* Basic card styling */
+.card-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping of cards to next row */
+  justify-content: space-around; /* Align cards with space around them */
+  gap: 16px; /* Space between cards */
+  padding: 16px;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  flex: 1 1 calc(33% - 32px); /* Adjusts to 3 cards per row on larger screens */
+  max-width: 300px; /* Maximum width for each card */
+}
+
+.card h3 {
+  font-size: 18px;
+}
+
+.card p {
+  font-size: 14px;
+}
+
+.card a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+/* Media query for tablets */
+@media screen and (max-width: 1024px) {
+  .card {
+    flex: 1 1 calc(50% - 32px); /* Adjusts to 2 cards per row on tablets */
+  }
+}
+
+/* Media query for mobile phones */
+@media screen and (max-width: 600px) {
+  .card {
+    flex: 1 1 100%; /* Adjusts to 1 card per row on smaller screens */
+  }
+}

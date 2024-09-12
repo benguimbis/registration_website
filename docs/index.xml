@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Thu, 12 Sep 2024 07:48:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Sep 2024 09:43:50 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -520,7 +520,8 @@
   <div class="card">
     <h3 class="anchored">Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
     <p>Katja Schemionek <br>(OMS-HQ)</p>
-    <a href="presentations/j1/" download="">Télécharger la présentation</a>
+    <a href="presentations/j1/PHC_Imm_Integration (French).pptx" download="">Télécharger la présentation(FR)</a>
+   <a href="presentations/j1/PHC_Imm_Integration.pptx" download="">Télécharger la présentation(EN)</a>    
   </div>
     <div class="card">
     <h3 class="anchored">Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
@@ -551,7 +552,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -561,129 +562,125 @@
 
 
 
-
-
 <div class="card-container">
-    <div class="card">
-      <h3 class="anchored">Mises à jour sur les nouveaux vaccins : hexavalent, DTP Boosters, etc.</h3>
-      <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
-      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-    <div class="card">
-      <h3 class="anchored">Introduction du vaccin anti-papillomavirus : évolution de la couverture vaccinale et guide de l'OMS sur le vaccin anti-papillomavirus à dose unique.</h3>
-      <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
-      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-      <div class="card">
-      <h3 class="anchored">HPV changement de calendrier de 2 à 1 dose et extension chez les garçons, intégration systématique à l'école</h3>
-      <p>Cameroun</p>
-      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-    <div class="card">
-      <h3 class="anchored">introduction du HepB0</h3>
-      <p>Burundi</p>
-      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-      <div class="card">
-      <h3 class="anchored">Introduction du Rota</h3>
-      <p>Congo</p>
-      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-    <div class="card">
-      <h3 class="anchored">Introduction du VPI</h3>
-      <p>Gabon<br>(OMS IST-CA)</p>
-      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-      <div class="card">
-      <h3 class="anchored">État de la mise en œuvre de l'engagement n° 2 de l'IDA : 
-        Accroître et pérenniser les investissements nationaux et les allocations budgétaires en faveur de la vaccination en Afrique</h3>
-      <p>Franck Mboussou &amp; Amos Petus<br>(OMS-AFRO)</p>
-      <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-    <div class="card">
-      <h3 class="anchored">Plan de Mashako et Déclaration de Kinshasa</h3>
-      <p>RDV</p>
-      <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-    </div>
-    <div class="card">
-        <h3 class="anchored">PFinancement durable de la vaccination</h3>
-        <p>Angola</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Gestion du financement public de la vaccination par les partenaires internationaux tels que l'OMS</h3>
-        <p>Guinée Équatoriale</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">financement public/ mécanisme d’achats groupés de vaccins</h3>
-        <p>Gabon</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">L'expérience de l'Amérique du Sud dans le déploiement des SVE et les recommandations pour la région africaine</h3>
-        <p>Carolina Danovaro<br> (OMS-HQ)</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Lignes directrices SMART et application à la surveillance du MPV</h3>
-        <p>Patricia Ndumbi<br>(Santé numérique, OMS-HQ)</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Utilisation des SIG dans l'identification des zones à risque pour les enfants à dose zéro</h3>
-        <p>Roland Ngom (PPHM, OMS-AFRO)</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">(planification et enregistrement des données par session de vaccination</h3>
-        <p>Cameroun</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Expérimentation du registre électronique</h3>
-        <p>Burundi</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Gestion de la campagne de vaccination contre la rougeole</h3>
-        <p>Burundi</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">succès de la stratégie urbaine mis en évidence par l'ECV</h3>
-        <p>RCA</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Enseignements tirés des enquêtes sur la couverture vaccinale </h3>
-        <p>Carolina Danovaro<br>(OMS-HQ)</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Leçons tirées des applications du FPP</h3>
-        <p>Gavi FD&amp;R</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
-        <p>AGBENU, Amavi Edinam</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
-      <div class="card">
-        <h3 class="anchored">Contribution de GEV à la performance du PEV </h3>
-        <p>Claude Mangobo<br>(IST-CA)</p>
-        <a href="../presentations/j2/.pptx" download="">Télécharger la présentation</a>
-      </div>
+<div class="card">
+  <h3 class="anchored">Mises à jour sur les nouveaux vaccins : hexavalent, DTP Boosters, etc.</h3>
+  <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
+  <a href="presentations/j2/1_ New Vaccines and Upcoming NUVI for CA EPI mtg 10Sept24 draft_frenchCTBf.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Introduction du vaccin anti-papillomavirus : évolution de la couverture vaccinale et guide de l'OMS sur le vaccin anti-papillomavirus à dose unique</h3>
+  <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
+  <a href="presentations/j2/2_ HPV vax updateCA_CTB.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">HPV changement de calendrier de 2 à 1 dose et extension chez les garçons, intégration systématique à l'école</h3>
+  <p>Cameroun</p>
+  <a href="presentations/j2/CMR_Expérience Switch Vaccin HPV et extension aux garçons.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Introduction du HepB0</h3>
+  <p>Burundi</p>
+  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Introduction du Rota</h3>
+  <p>Congo</p>
+  <a href="presentations/j2/rota.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Introduction du VPI</h3>
+  <p>Gabon<br>(OMS IST-CA)</p>
+  <a href="presentations/j2/Panel_Gabon20240831.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">État de la mise en œuvre de l'engagement n° 2 de l'IDA : Accroître et pérenniser les investissements nationaux et les allocations budgétaires en faveur de la vaccination en Afrique</h3>
+  <p>Franck Mboussou &amp; Amos Petus<br>(OMS-AFRO)</p>
+  <a href="presentations/j2/État de la mise en œuvre de l'engagement n 2 de l'IDA.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Plan de Mashako et Déclaration de Kinshasa</h3>
+  <p>RDV</p>
+  <a href="presentations/j2/J2-P3_Engagement politique et financement durable de la vaccination_RDC (Plan de Mashako et Déclaration de Kinshasa_VF.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Financement durable de la vaccination</h3>
+  <p>Angola</p>
+  <a href="presentations/j2/Financement durable de la vaccination FR.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Gestion du financement public de la vaccination par les partenaires internationaux tels que l'OMS</h3>
+  <p>Guinée Équatoriale</p>
+  <a href="presentations/j2/Panel_EQG_Gestion du financement public de la vaccination par les partenaires internationaux.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Financement public/ mécanisme d’achats groupés de vaccins</h3>
+  <p>Gabon</p>
+  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">L'expérience de l'Amérique du Sud dans le déploiement des SVE et les recommandations pour la région africaine</h3>
+  <p>Carolina Danovaro<br>(OMS-HQ)</p>
+  <a href="presentations/j2/EIR overview and PAHO exp-Sept2024.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Lignes directrices SMART et application à la surveillance du MPV</h3>
+  <p>Patricia Ndumbi<br>(Santé numérique, OMS-HQ)</p>
+  <a href="presentations/j2/Ndumbi_Surveillance Standards_EPI_AFRO_20240909_FRENCH.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Utilisation des SIG dans l'identification des zones à risque pour les enfants à dose zéro</h3>
+  <p>Roland Ngom (PPHM, OMS-AFRO)</p>
+  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Planification et enregistrement des données par session de vaccination</h3>
+  <p>Cameroun</p>
+  <a href="presentations/j2/CMR_Panel planification et enregistrement des données par session.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Expérimentation du registre électronique</h3>
+  <p>RDC</p>
+  <a href="presentations/j2/RDC_J2-P4_Santé digitale dans le PEV et évaluation de la couverture vaccinale_RDC expérimentation du registre électronique_VF.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Gestion de la campagne de vaccination contre la rougeole</h3>
+  <p>Burundi</p>
+  <a href="presentations/j2/Situation de la rougeole au Burundi.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Succès de la stratégie urbaine mis en évidence par l'ECV</h3>
+  <p>RCA</p>
+  <a href="presentations/j2/ECV.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Enseignements tirés des enquêtes sur la couverture vaccinale</h3>
+  <p>Carolina Danovaro<br>(OMS-HQ)</p>
+  <a href="presentations/j2/On Vax Coverage Surveys_FR.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Leçons tirées des applications du FPP</h3>
+  <p>Gavi FD&amp;R</p>
+  <a href="presentations/j2/Partage d'experiences FPP 10 septembre 24_FR_revised version.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
+  <p>AGBENU, Amavi Edinam</p>
+  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+</div>
+<div class="card">
+  <h3 class="anchored">Contribution de GEV à la performance du PEV</h3>
+  <p>Claude Mangobo<br>(IST-CA)</p>
+  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
+</div>
+</div>
   
-  </div>
-
 
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -695,10 +692,93 @@
 
 
 
+<div class="card-container">
+  <div class="card">
+    <h3 class="anchored">Orientations mondiales sur la SPV et le genre </h3>
+    <p>Carole Tevi Benissan <br> (OMS-HQ)</p>
+    <a href="presentations/j3/1_Genre et vaccination_French_ EPI MM_CA_2024_Final.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Présentations des panélistes nationaux sur l'intégration de la dimension de genre dans les programmes VPD </h3>
+    <p>Angola<br>STP<br>RDC<br>RCA</p>
+    <a href="presentations/j3/dimensão de género nos programas de vacinação FR.pptx" download="">Télécharger la présentation(Angola)</a>
+    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/genre_rdc.pptx" download="">Télécharger la présentation(RDC)</a>
+    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">État de la situation de la rougeole en Afrique centrale et paysage du financement de la riposte</h3>
+    <p>Edie-Alain Kemenang<br>(OMS IST-CA)<br>Alice Wimmer<br>(OMS-HQ)</p>
+    <a href="presentations/j3/measles_presentation.pptx" download="">Télécharger la présentation(Surveillance)</a>
+    <a href="presentations/j3/measles outbreak financing EPI.pptx" download="">Télécharger la présentation(Financement)</a>
+    <a href="presentations/j3/complement_rougeole.zip" download="">Télécharger les compléments à la présentation(Financement)</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Présentation des panélistes nationaux sur la détection et la réponse aux épidémies de rougeole </h3>
+    <p>RDC<br>Cameroun<br>Guinée Eq<br>Burundi<br>Tchad</p>
+    <a href="presentations/j3/J3-P6_Surveillance de la rougeole _détection et la réponse aux épidémies de rougeole_RDC (1).pptx" download="">Télécharger la présentation (RDC)</a>
+    <a href="presentations/j3/CMR_Panel détection et réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (CMR)</a>
+    <a href="presentations/j3/Panel_EQG_Détection et la réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (EQG)</a>
+    <a href="presentations/j3/Situation de la rougeole au Burundi.pptx" download="">Télécharger la présentation (Burundi)</a>
+    <a href="presentations/j3/Presentation  Panel Tchad Reunion des Directeurs.pptx" download="">Télécharger la présentation (Tchad)</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Progrès réalisés dans l’éradication et transition polio en Afrique centrale</h3>
+    <p>Sama Ainan &amp; Aissata Diaha<br>(OMS AFRO) </p>
+    <a href="presentations/j3/EPI Managers Polio Transition Draft_.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Recommandations de SAGE sur les vaccins Mpox </h3>
+    <p>DOSHI Reena <br>(OMS)</p>
+    <a href="presentations/j3/SAGE recommendations EPI MM FR.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j3/SAGE recommendations EPI MM.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Expérience de la RDC dans le déploiement des vaccins contre Mpox </h3>
+    <p>PEV RDC</p>
+    <a href="presentations/j3/mpox_RDC.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Progrès dans la mise en œuvre de la déclaration d’Addis sur la vaccination</h3>
+    <p>Dieudonné Hazimana <br>(AUC)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Démonstration sur le Dashboard et socrecards sur la  déclaration d’Addis sur la vaccination</h3>
+    <p>Franck Mboussou <br>(IST-CA)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Eradication et transistion polio</h3>
+    <p>Sama Ainan &amp; Aissata Diaha <br>(OMS AFRO)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Gavi 6.0 et évolution des partenariats</h3>
+    <p>Florence Conteh-Nordman<br>(Gavi)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Vaccination des populations spéciales et en contexte humanitaire</h3>
+    <p>Marcellin Nimpa (OMS) &amp; GAVI</p>
+    <a href="presentations/j3/RDC_J4-S4_Vaccination des populations spéciales et en contexte humanitaire.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
+    <p>Edinam Agbenu<br>(OMS IST CA)</p>
+    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+  </div>
+</div>
+
+
+
+
+
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -713,7 +793,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -739,7 +819,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -756,7 +836,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -766,14 +846,14 @@
 
 
 
-<iframe width="1040px" height="780px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUM0NSUE5HWVFTVzhHOU1FRFlQUjRMVjlBUy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+<iframe width="1040px" height="720px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUM0NSUE5HWVFTVzhHOU1FRFlQUjRMVjlBUy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
 
 
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -785,10 +865,15 @@
 
 
 
+<iframe width="1040px" height="720px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUMzVERkdDTkJFN0Q1OFJORlhOTFdETDBZTy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+
+
+
+
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -798,15 +883,14 @@
 
 
 
-
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUMVlQMk9KUkdMRVhDV1BKNzIyWDFXWDIxUi4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+<iframe width="1040px" height="720px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUMVlQMk9KUkdMRVhDV1BKNzIyWDFXWDIxUi4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
 
 
 
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -949,7 +1033,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Thu, 12 Sep 2024 07:48:45 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
 </item>
 </channel>
 </rss>

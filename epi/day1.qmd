@@ -35,7 +35,8 @@ execute:
   <div class="card">
     <h3>Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
     <p>Katja Schemionek <br>(OMS-HQ)</p>
-    <a href="presentations/j1/" download>Télécharger la présentation</a>
+    <a href="presentations/j1/PHC_Imm_Integration (French).pptx" download>Télécharger la présentation(FR)</a>
+   <a href="presentations/j1/PHC_Imm_Integration.pptx" download>Télécharger la présentation(EN)</a>    
   </div>
     <div class="card">
     <h3>Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
