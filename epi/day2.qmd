@@ -114,11 +114,6 @@ execute:
   <a href="presentations/j2/Partage d'experiences FPP 10 septembre 24_FR_revised version.pptx" download>Télécharger la présentation</a>
 </div>
 <div class="card">
-  <h3>Continuer à garantir l’innocuité des vaccins</h3>
-  <p>AGBENU, Amavi Edinam</p>
-  <a href="presentations/j2/.pptx" download>Télécharger la présentation</a>
-</div>
-<div class="card">
   <h3>Contribution de GEV à la performance du PEV</h3>
   <p>Claude Mangobo<br>(IST-CA)</p>
   <a href="presentations/j2/.pptx" download>Télécharger la présentation</a>

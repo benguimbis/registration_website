@@ -6,7 +6,7 @@ project:
 website: 
   title:  <img src = "static/img/unicef2.png" alt = "Unicef" width = "175" height = "43.75" img>
   favicon: /static/img/who-emblem.png
-  site-url: https://benguimbis.github.io/registration_website/
+  site-url: https://who-ist-ca.github.io/Reunion-Annuelle-PEV/
   cookie-consent: true
   announcement: 
     icon: info-circle
@@ -14,8 +14,7 @@ website:
     content: "**Attention** - La période d'enregistrement est prolongée au  **31 août 2024**"
     type: warning
     position: above-navbar
-  repo-url: https://github.com/benguimbis/registration_website
-  repo-actions: [source, issue]
+
   
   navbar: 
     logo: /static/img/logo-en.svg

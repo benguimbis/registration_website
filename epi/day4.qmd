@@ -14,6 +14,65 @@ execute:
 
 
 
+```{=html}
+<div class="card-container">
+  <div class="card">
+    <h3>Introduction aux vaccins Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/2. Introduction to Ebola vaccines V2-en-FR.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Les recommandations du SAGE sur les vaccins contre Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/3. SAGE Recommendations Ebola vaccines V2-en-FR.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Pourquoi considérer la vaccination à but préventif ?</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/4a. Why conduct preventive vaccination V2-en-FR.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Accès aux vaccins contre Ébola et application à ICG</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/5. Emergencies and ICG applications_FR.pptx" download>Télécharger la présentation (FR)</a>
+    <a href="presentations/j4/5. Emergencies and ICG applications.pptx" download>Télécharger la présentation (EN)</a>    
+  </div>
+  
+  <div class="card">
+    <h3>Applications à Gavi sur la vaccination contre Ébola</h3>
+    <p>GAVI</p>
+    <a href="presentations/j4/Gavi pEbola Programme_pEbola workshop_September 2024_french_HIO.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Engagement communautaire dans la vaccination contre Ébola</h3>
+    <p>UNICEF</p>
+    <a href="presentations/j4/6.RDC_EPI Manager_Engagement communautaire_personnel de sante_vaccination Ebola.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Orientations et appuis techniques : considérations pratiques pour la vaccination contre Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/7. Technical guidance and practical considerations for Ebola vaccination_FR.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Cartographie des risques</h3>
+    <p>DOSHI, Reena (OMS)</p>
+    <a href="presentations/j4/.pptx" download>Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3>Expérience de la RDC dans la vaccination contre Ébola</h3>
+    <p>PEV RDC</p>
+    <a href="presentations/j4/.pptx" download>Télécharger la présentation</a>
+  </div>
+</div>
+
+```
 
 
 

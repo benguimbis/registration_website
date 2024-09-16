@@ -2,6 +2,11 @@
 title: "Journée du 11 septembre 2024 "
 description: "<strong>Présentations de la 3^e^ journée</strong>"
 #image: /static/img/business-time-solid.svg
+other-links: 
+  - text: Guide de vaccination en contexte d'urgence humanitaire
+    href: https://iris.who.int/bitstream/handle/10665/258719/WHO-IVB-17.13-eng.pdf?sequence=1
+  - text: Formation en ligne sur la vaccination en contexte d'urgence humanitaire
+    href: https://agora.unicef.org/course/info.php?id=13019&lang=fr
 title-block-banner: false
 execute: 
   echo: false
@@ -64,24 +69,15 @@ execute:
     <a href="presentations/j3/mpox_RDC.pptx" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
-    <h3 class="anchored">Progrès dans la mise en œuvre de la déclaration d’Addis sur la vaccination</h3>
-    <p>Dieudonné Hazimana <br>(AUC)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
     <h3 class="anchored">Démonstration sur le Dashboard et socrecards sur la  déclaration d’Addis sur la vaccination</h3>
     <p>Franck Mboussou <br>(IST-CA)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Eradication et transistion polio</h3>
-    <p>Sama Ainan &amp; Aissata Diaha <br>(OMS AFRO)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/demonstration sur le dashboard scorecard.zip" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">Gavi 6.0 et évolution des partenariats</h3>
     <p>Florence Conteh-Nordman<br>(Gavi)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/FinalVersionFLO_EPI_Evolution of partnership_consultations.pptx" download="">Télécharger la présentation(Gavi 6.0: Évolution des Partenariats de l’Alliance)</a>
+    <a href="presentations/j3/Health systems EPI regional meeting_central africa.pptx" download="">Télécharger la présentation(Stratégie relative aux systèmes de santé 6.0)</a>
   </div>
   <div class="card">
     <h3 class="anchored">Vaccination des populations spéciales et en contexte humanitaire</h3>
@@ -91,10 +87,9 @@ execute:
   <div class="card">
     <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
     <p>Edinam Agbenu<br>(OMS IST CA)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/pharmacovigilance.zip" download="">Télécharger la présentation</a>
   </div>
 </div>
-
 
 
 ```

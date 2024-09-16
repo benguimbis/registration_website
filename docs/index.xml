@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>&lt;img src = &quot;static/img/unicef2.png&quot; alt = &quot;Unicef&quot; width = &quot;175&quot; height = &quot;43.75&quot; img&gt;</title>
-<link>https://benguimbis.github.io/registration_website/</link>
-<atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/</link>
+<atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Thu, 12 Sep 2024 09:43:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Sep 2024 12:07:06 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
-  <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</link>
   <description><![CDATA[ 
 <p>Pour toute information à propos de la reunion, veuillez contacter</p>
 <p><strong>Mme Raïssa Moussounda Mabika</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:mabikar@who.int?subject=Reunion%20PEV%20Kinshasa">mabikar@who.int</a></p>
@@ -22,13 +22,13 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
-  <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
+  <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Agenda</title>
-  <link>https://benguimbis.github.io/registration_website/epi/agenda.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</link>
   <description><![CDATA[ 
 
 
@@ -489,12 +489,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/day1.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</link>
   <description><![CDATA[ 
 
 
@@ -551,12 +551,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/day2.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</link>
   <description><![CDATA[ 
 
 
@@ -664,11 +664,6 @@
   <a href="presentations/j2/Partage d'experiences FPP 10 septembre 24_FR_revised version.pptx" download="">Télécharger la présentation</a>
 </div>
 <div class="card">
-  <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
-  <p>AGBENU, Amavi Edinam</p>
-  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
   <h3 class="anchored">Contribution de GEV à la performance du PEV</h3>
   <p>Claude Mangobo<br>(IST-CA)</p>
   <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
@@ -679,12 +674,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/day3.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</link>
   <description><![CDATA[ 
 
 
@@ -740,24 +735,15 @@
     <a href="presentations/j3/mpox_RDC.pptx" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
-    <h3 class="anchored">Progrès dans la mise en œuvre de la déclaration d’Addis sur la vaccination</h3>
-    <p>Dieudonné Hazimana <br>(AUC)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
     <h3 class="anchored">Démonstration sur le Dashboard et socrecards sur la  déclaration d’Addis sur la vaccination</h3>
     <p>Franck Mboussou <br>(IST-CA)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Eradication et transistion polio</h3>
-    <p>Sama Ainan &amp; Aissata Diaha <br>(OMS AFRO)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/demonstration sur le dashboard scorecard.zip" download="">Télécharger la présentation</a>
   </div>
   <div class="card">
     <h3 class="anchored">Gavi 6.0 et évolution des partenariats</h3>
     <p>Florence Conteh-Nordman<br>(Gavi)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/FinalVersionFLO_EPI_Evolution of partnership_consultations.pptx" download="">Télécharger la présentation(Gavi 6.0: Évolution des Partenariats de l’Alliance)</a>
+    <a href="presentations/j3/Health systems EPI regional meeting_central africa.pptx" download="">Télécharger la présentation(Stratégie relative aux systèmes de santé 6.0)</a>
   </div>
   <div class="card">
     <h3 class="anchored">Vaccination des populations spéciales et en contexte humanitaire</h3>
@@ -767,7 +753,7 @@
   <div class="card">
     <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
     <p>Edinam Agbenu<br>(OMS IST CA)</p>
-    <a href="presentations/j3/.pptx" download="">Télécharger la présentation</a>
+    <a href="presentations/j3/pharmacovigilance.zip" download="">Télécharger la présentation</a>
   </div>
 </div>
 
@@ -775,29 +761,85 @@
 
 
 
-
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/day4.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</link>
   <description><![CDATA[ 
 
 
 
 
+<div class="card-container">
+  <div class="card">
+    <h3 class="anchored">Introduction aux vaccins Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/2. Introduction to Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Les recommandations du SAGE sur les vaccins contre Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/3. SAGE Recommendations Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Pourquoi considérer la vaccination à but préventif ?</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/4a. Why conduct preventive vaccination V2-en-FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Accès aux vaccins contre Ébola et application à ICG</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/5. Emergencies and ICG applications_FR.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j4/5. Emergencies and ICG applications.pptx" download="">Télécharger la présentation (EN)</a>    
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Applications à Gavi sur la vaccination contre Ébola</h3>
+    <p>GAVI</p>
+    <a href="presentations/j4/Gavi pEbola Programme_pEbola workshop_September 2024_french_HIO.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Engagement communautaire dans la vaccination contre Ébola</h3>
+    <p>UNICEF</p>
+    <a href="presentations/j4/6.RDC_EPI Manager_Engagement communautaire_personnel de sante_vaccination Ebola.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Orientations et appuis techniques : considérations pratiques pour la vaccination contre Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/7. Technical guidance and practical considerations for Ebola vaccination_FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Cartographie des risques</h3>
+    <p>DOSHI, Reena (OMS)</p>
+    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Expérience de la RDC dans la vaccination contre Ébola</h3>
+    <p>PEV RDC</p>
+    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
+  </div>
+</div>
+
 
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
-  <link>https://benguimbis.github.io/registration_website/epi/enregistrement.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</link>
   <description><![CDATA[ 
 
 
@@ -818,12 +860,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/jour1.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</link>
   <description><![CDATA[ 
 
 
@@ -835,12 +877,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/jour1.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/jour2.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</link>
   <description><![CDATA[ 
 
 
@@ -852,12 +894,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/jour2.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/jour3.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</link>
   <description><![CDATA[ 
 
 
@@ -872,12 +914,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/jour3.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
-  <link>https://benguimbis.github.io/registration_website/epi/jour4.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour4.html</link>
   <description><![CDATA[ 
 
 
@@ -889,12 +931,12 @@
 
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/jour4.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour4.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://benguimbis.github.io/registration_website/epi/note.html</link>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</link>
   <description><![CDATA[ 
 
 
@@ -1032,8 +1074,8 @@
 </section>
 
  ]]></description>
-  <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Thu, 12 Sep 2024 09:43:50 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
+  <pubDate>Mon, 16 Sep 2024 12:07:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
