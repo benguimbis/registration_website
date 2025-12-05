@@ -2,8 +2,8 @@
 title: "Contacts"
 about: 
   template: trestles
-  image: logo-en.svg
-image: logo-en.svg
+  image: header.png
+image: header.png
 ---
 
 Pour toute information à propos de la reunion, veuillez contacter

@@ -1,6 +1,6 @@
 ---
 title: "Inscriptions"
-description: "<strong>Inscriptions pour la reunion PEV-AC</strong>"
+description: "<strong>Inscriptions pour la reunion</strong>"
 #image: /static/img/pen-nib-solid.svg
 title-block-banner: false
 execute: 
@@ -10,32 +10,23 @@ execute:
 
 Chers participants et modérateurs,
 
-Nous sommes ravis de vous accueillir à Kinshasa! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :
+Nous sommes ravis de vous accueillir à Matadi! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :
 
 - **Remplissez le formulaire** :
 Entrez vos coordonnées (nom, prénom, adresse e-mail, etc.).
 - **Validez votre inscription** :
-Cliquez sur le bouton **“Envoyer”** pour confirmer votre participation.
+Cliquez sur le bouton **“Enregistrer l'inscription”** pour confirmer votre participation.
 - **Téléchargez le calendrier**:
 Accedez a la section *Other Links* et cliquez sur **Télécharger Agenda** (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.).
 N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement !
-<br/>
-<br/>
-<br/>
 
+ &nbsp;&nbsp;&nbsp; <div>
 
-::: {.callout-danger}
-## Les enregistrements sont fermés, veuillez vous enregistrer pour la deuxieme journée
+```{=html}
+<embed width="600px" height="1400px" src="https://worldhealthorg.shinyapps.io/inscriptions_revue_rdc/" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100%; color: #ffffff" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </embed>
 
-[Enregistrements de la 2~e~ journée](jour2.qmd)
+```
 
-
-:::
-
-
-
-
-
-
+</div>
 
 

@@ -1,6 +1,6 @@
 ---
-title: Réunion annuelle des directeurs des Programmes Élargis de Vaccination des pays d'Afrique Centrale
-subtitle: <i class="fa-solid fa-hotel"></i>  Hôtel Pullman, Kinshasa-RDC<br/><i class="fa-solid fa-calendar"></i>  Du 09 au 12 septembre 2024
+title: Révue annuelle du Programme Élargi de Vaccination de la République Démocratique du Congo
+subtitle: <i class="fa-solid fa-hotel"></i>  Matadi-RDC<br/><i class="fa-solid fa-calendar"></i>  Du 15 au 19 décembre 2025
 listing:
   feed: true
   contents: epi
@@ -19,16 +19,16 @@ code-tools: false
 
 
 
-Bienvenu(e)s sur la plateforme dédiée à la Réunion Annuelle des directeurs des Programmes Elargis de Vaccination des pays d'Afrique Centrale !
+Bienvenu(e)s sur la plateforme dédiée à la Révue Annuelle du  Programmes Elargi de Vaccination de la République Démocratique du Congo(RDC)!
  
-Nous sommes ravis de vous accueillir pour cet événement important dédié à la vaccination et à la santé publique en Afrique centrale. Bien que la réunion se déroule en présentiel, cette plateforme servira de ressource pour accéder à l'agenda, aux documents de la réunion, aux informations logistiques, et pour faciliter les échanges entre les participants avant, pendant et après l'événement.
+Nous sommes ravis de vous accueillir pour cet événement important dédié à la vaccination et à la santé publique en RDC. Bien que la réunion se déroule en présentiel, cette plateforme servira de ressource pour accéder à l'agenda, aux documents de la réunion, aux informations logistiques, et pour faciliter les échanges entre les participants avant, pendant et après l'événement.
  
 Nous espérons que cette plateforme enrichira votre expérience en vous permettant de rester informé, de participer activement aux discussions et de contribuer efficacement aux objectifs de cette réunion cruciale.
  
 Bienvenue à tous et à toutes et nous vous souhaitons une réunion fructueuse et productive !
 
 
-**Liens Rapides:** &nbsp;&nbsp;&nbsp;[Enregistrement J2](epi/jour2.qmd){.btn .btn-outline-primary .button-styling .btn role="button" data-toggle="tooltip" title="Je' m'enregistre"}
+**Liens Rapides:** &nbsp;&nbsp;&nbsp;[Enregistrements](epi/enregistrement.qmd){.btn .btn-outline-primary .button-styling .btn role="button" data-toggle="tooltip" title="Je' m'enregistre"}
 
 
 

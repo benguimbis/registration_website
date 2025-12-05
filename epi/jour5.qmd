@@ -1,0 +1,23 @@
+---
+title: "Journée du 19 décembre 2025 "
+description: "<strong>Enregistrement de la 5^e^ journée</strong>"
+#image: /static/img/business-time-solid.svg
+title-block-banner: false
+execute: 
+  echo: false
+---
+
+
+
+
+
+
+```{ =html}
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUQUIzWTk4V0JTVzIzOTBMWlowRDZLWThERS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+```
+
+
+
+
+

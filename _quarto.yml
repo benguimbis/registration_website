@@ -4,20 +4,21 @@ project:
 
   
 website: 
-  title:  <img src = "static/img/unicef2.png" alt = "Unicef" width = "175" height = "43.75" img>
-  favicon: /static/img/who-emblem.png
+  title: Revue annuelle du Programme Élargie de Vaccination de la République Démocratique du Congo, Matadi 2025
+  favicon: /static/img/fav.png
   site-url: https://who-ist-ca.github.io/Reunion-Annuelle-PEV/
   cookie-consent: true
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Attention** - La période d'enregistrement est prolongée au  **31 août 2024**"
+    content: "**Attention** - Cette information est importante"
     type: warning
     position: above-navbar
 
   
   navbar: 
-    logo: /static/img/logo-en.svg
+    title: false
+    logo: /static/img/header.png
     background: light
     foreground: dark
     right: 
@@ -37,6 +38,9 @@ website:
             href: epi/jour3.qmd
           - text: 'Enregistrements journée 4'
             href: epi/jour4.qmd            
+          - text: 'Enregistrements journée 5'
+            href: epi/jour5.qmd            
+
       - text: Agenda et Présentations
         icon: calendar-date-fill
         menu: 
@@ -56,21 +60,19 @@ website:
       - text: "Contact"
         file:  epi/about.qmd
         icon: bi-person-lines-fill
-   
+  search:
+    location: navbar
+    type: overlay
   
   page-footer:
     left: |
-      {{< fa regular copyright >}} WHO-IST CA 2024<br>      
+      {{< fa regular copyright >}} PEV-RDC 2025<br>      
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org)
     right:
-      - text: <img src = "static/img/logo-en.svg"  alt = "WHO-AFRO" width = "250" height = "62.5">&nbsp;
-        href: https://www.afro.who.int/
-        aria-label: WHO-AFRO
-      - text: <img src = "static/img/unicef2.png" alt = "Unicef" width = "150" height = "37.5" img>
-        href: https://www.unicef.org/wca/
-        aria-label: Unicef-WCA
+      - text: <img src = "/static/img/footer.png" alt = "Unicef" width = "529px" height = "59px">
+        aria-label: PEV-RDC
 
-
+  back-to-top-navigation: true
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Journée du 18 décembre 2025"
-description: "<strong>Présentations de la 4^e^ journée</strong>"
+title: "Journée du 19 décembre 2025"
+description: "<strong>Présentations de la 5^e^ journée</strong>"
 #image: /static/img/business-time-solid.svg
 title-block-banner: false
 execute: 

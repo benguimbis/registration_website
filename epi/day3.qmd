@@ -1,5 +1,5 @@
 ---
-title: "Journée du 11 septembre 2024 "
+title: "Journée du 17 décembre 2025 "
 description: "<strong>Présentations de la 3^e^ journée</strong>"
 #image: /static/img/business-time-solid.svg
 other-links: 
