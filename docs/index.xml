@@ -5,26 +5,25 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>&lt;img src = &quot;static/img/unicef2.png&quot; alt = &quot;Unicef&quot; width = &quot;175&quot; height = &quot;43.75&quot; img&gt;</title>
+<title>Revue annuelle du Programme Élargie de Vaccination de la République Démocratique du Congo, Matadi 2025</title>
 <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/</link>
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 02 Dec 2025 07:25:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 10:29:28 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</link>
   <description><![CDATA[ 
 <p>Pour toute information à propos de la reunion, veuillez contacter</p>
-<p><strong>Mme Raïssa Moussounda Mabika</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:mabikar@who.int?subject=Reunion%20PEV%20Kinshasa">mabikar@who.int</a></p>
-<p><strong>Mr Alain Elofa</strong><br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:elofae@who.int?subject=Reunion%20PEV%20Kinshasa">elofae@who.int</a></p>
-<p><strong>Dr Franck Mboussou</strong><br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="maito:mboussouf@who.int?subject=Reunion%20PEV%20Kinshasa">mboussouf@who.int</a></p>
+<p><strong>Direction PEV</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></p>
+<p><strong>Suivi et Évaluation PEV</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></p>
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
-  <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
+  <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 <item>
   <title>Agenda</title>
@@ -488,9 +487,9 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -550,12 +549,12 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
-  <title>Journée du 10 septembre 2024</title>
+  <title>Journée du 16 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</link>
   <description><![CDATA[ 
 
@@ -673,12 +672,12 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
-  <title>Journée du 11 septembre 2024</title>
+  <title>Journée du 17 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</link>
   <description><![CDATA[ 
 
@@ -761,12 +760,12 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
-  <title>Journée du 12 septembre 2024</title>
+  <title>Journée du 18 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</link>
   <description><![CDATA[ 
 
@@ -833,9 +832,81 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 19 décembre 2025</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day5.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="card-container">
+  <div class="card">
+    <h3 class="anchored">Introduction aux vaccins Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/2. Introduction to Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Les recommandations du SAGE sur les vaccins contre Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/3. SAGE Recommendations Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Pourquoi considérer la vaccination à but préventif ?</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/4a. Why conduct preventive vaccination V2-en-FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Accès aux vaccins contre Ébola et application à ICG</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/5. Emergencies and ICG applications_FR.pptx" download="">Télécharger la présentation (FR)</a>
+    <a href="presentations/j4/5. Emergencies and ICG applications.pptx" download="">Télécharger la présentation (EN)</a>    
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Applications à Gavi sur la vaccination contre Ébola</h3>
+    <p>GAVI</p>
+    <a href="presentations/j4/Gavi pEbola Programme_pEbola workshop_September 2024_french_HIO.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Engagement communautaire dans la vaccination contre Ébola</h3>
+    <p>UNICEF</p>
+    <a href="presentations/j4/6.RDC_EPI Manager_Engagement communautaire_personnel de sante_vaccination Ebola.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Orientations et appuis techniques : considérations pratiques pour la vaccination contre Ébola</h3>
+    <p>OMS</p>
+    <a href="presentations/j4/7. Technical guidance and practical considerations for Ebola vaccination_FR.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Cartographie des risques</h3>
+    <p>DOSHI, Reena (OMS)</p>
+    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
+  </div>
+  
+  <div class="card">
+    <h3 class="anchored">Expérience de la RDC dans la vaccination contre Ébola</h3>
+    <p>PEV RDC</p>
+    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
+  </div>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day5.html</guid>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -846,39 +917,40 @@
 
 
 <p>Chers participants et modérateurs,</p>
-<p>Nous sommes ravis de vous accueillir à Kinshasa! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :</p>
+<p>Nous sommes ravis de vous accueillir à Matadi! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :</p>
 <ul>
 <li><strong>Remplissez le formulaire</strong> : Entrez vos coordonnées (nom, prénom, adresse e-mail, etc.).</li>
-<li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Envoyer”</strong> pour confirmer votre participation.</li>
-<li><strong>Téléchargez le calendrier</strong>: Accedez a la section <em>Other Links</em> et cliquez sur <strong>Télécharger Agenda</strong> (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.). N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement ! <br> <br> <br></li>
+<li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Enregistrer l’inscription”</strong> pour confirmer votre participation.</li>
+<li><strong>Téléchargez le calendrier</strong>: Accedez a la section <em>Other Links</em> et cliquez sur <strong>Télécharger Agenda</strong> (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.). N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement !</li>
 </ul>
-<section id="les-enregistrements-sont-fermés-veuillez-vous-enregistrer-pour-la-deuxieme-journée" class="level2 callout-danger">
-<h2 class="anchored" data-anchor-id="les-enregistrements-sont-fermés-veuillez-vous-enregistrer-pour-la-deuxieme-journée">Les enregistrements sont fermés, veuillez vous enregistrer pour la deuxieme journée</h2>
-<p><a href="../epi/jour2.html">Enregistrements de la 2<sub>e</sub> journée</a></p>
-</section>
+&nbsp;&nbsp;&nbsp;
+<div>
+<embed width="800px" height="950px" src="https://worldhealthorg.shinyapps.io/inscriptions_revue_rdc/" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100%; color: #ffffff" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> 
+
+</div>
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
-  <title>Journée du 09 septembre 2024</title>
+  <title>Journée du 15 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</link>
   <description><![CDATA[ 
 
 
 
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUQUIzWTk4V0JTVzIzOTBMWlowRDZLWThERS4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+<iframe width="800px" height="900px" src="https://worldhealthorg.shinyapps.io/attendance_sheet/" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100%" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
 
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -893,9 +965,9 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -913,9 +985,9 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -930,9 +1002,26 @@
 
 
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour4.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 19 décembre 2025</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour5.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUQUIzWTk4V0JTVzIzOTBMWlowRDZLWThERS4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour5.html</guid>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -946,108 +1035,46 @@
 <h2 class="anchored" data-anchor-id="note-dinformation">Note d’information</h2>
 <section id="dates-et-lieu" class="level3">
 <h3 class="anchored" data-anchor-id="dates-et-lieu">Dates et lieu</h3>
-<p>La réunion se tiendra du 9 au 12 septembre 2024 à l’hôtel Pullman, Ville province de Kinshasa, adresse : 4 Avenue Batetela 9535 KINSHASA, Gombe <br> Email: <a href="mailto:H9635@accor.com">H9635@accor.com</a>-Téléphone : +243 85 8000 111 / +243 996 037 000</p>
-</section>
-<section id="conditions-dentrée-sur-le-territoire" class="level3">
-<h3 class="anchored" data-anchor-id="conditions-dentrée-sur-le-territoire">Conditions d’entrée sur le territoire</h3>
-<p>Un visa est requis pour entrer en RDC. Pour les pays où il y a une ambassade de la RDC, il est nécessaire de prendre toutes les dispositions pour obtenir le visa avant d’entreprendre le voyage. Les pays ne disposant pas d’une Ambassade de la RDC, le visa peut être obtenu via le lien <a href="www.evisa.gouv.cd">www.evisa.gouv.cd</a> pour <strong>300 USD</strong> à payer en ligne et <strong>90 USD</strong> à l’arrivée à l’aéroport international de N’Djili (Kinshasa). <strong>Assurez vous de disposer de ces frais au départ</strong>. NB : <strong>Il est formellement déconseillé d’entreprendre le voyage sur Kinshasa en l’absence de visa</strong>. Seuls les ressortissants peuvent entrer en RDC sans visa. <strong>Des taxes aéroportuaires sont obligatoires pour tout voyageur à la sortie du territoire congolais, le montant à payer est de 55 $</strong>. Les participants veilleront à conserver les reçus pour des éventuels demandes de remboursement.</p>
-<p><strong>Deux pages de passeport vierges consécutives</strong> : La RDC exige que les voyageurs aient deux pages vierges consécutives dans leur passeport à chaque arrivée en RDC. L’entrée sur le territoire Congolais vous sera refusée si vous n’avez pas deux pages vierges consécutives.</p>
-<p><strong>Passeport valable six mois</strong> : Les voyageurs ne seront pas autorisés à franchir les frontières Congolaises si leur passeport n’a pas une date d’expiration minimale d’au moins six mois après le dernier jour du voyage.</p>
-</section>
-<section id="santé" class="level3">
-<h3 class="anchored" data-anchor-id="santé">Santé</h3>
-<section id="vaccins-obligatoires" class="level4">
-<h4 class="anchored" data-anchor-id="vaccins-obligatoires">Vaccins Obligatoires</h4>
-<p>Les voyageurs entrant en RDC en provenance de pays désignés par l’OMS comme présentant un risque de transmission du virus de la fièvre jaune (YFV) doivent présenter leur certificat international de vaccination en cours de validité approuvé par l’Organisation mondiale de la santé (OMS) (carte jaune).</p>
-<p>Pour les participants venant d’un pays exempt de paludisme, il est vivement recommandé de prendre une prophylaxie contre le paludisme, du répulsif anti-moustique et une pommade contre les piqures éventuelles sont également conseillés.</p>
-</section>
-<section id="épidémie-de-monkeypox" class="level4">
-<h4 class="anchored" data-anchor-id="épidémie-de-monkeypox">Épidémie de Monkeypox</h4>
-<ul>
-<li><strong>Situation actuelle en RDC</strong></li>
-</ul>
-<p>La République Démocratique du Congo (RDC) est un pays endémique pour le mpox, avec des rapports récents indiquant une augmentation des cas. Au cours de la semaine 32 de 2024, 1 026 nouveaux cas suspects ont été enregistrés, accompagnés de 27 nouveaux décès, ce qui porte le taux de létalité à 2,6 %. À Kinshasa, la situation est relativement moins sévère comparée à d’autres régions du pays.</p>
-<p>L’Organisation Mondiale de la Santé (OMS) soutient activement les efforts de riposte en RDC, en mettant en œuvre des stratégies pour limiter la propagation de la maladie et en fournissant un soutien technique et opérationnel aux autorités locales. Ces mesures incluent des campagnes de sensibilisation, la mise en place de centres de traitement, et la surveillance continue de l’épidémie.</p>
-<ul>
-<li><strong>Informations générales sur le Mpox (Monkeypox)</strong></li>
-</ul>
-<p>Le mpox, ou variole du singe, est une maladie virale rare causée par un orthopoxvirus de la famille des Poxviridae. Il existe deux clades principaux du virus :</p>
-<ul>
-<li><p>Clade I : Connu auparavant sous le nom de clade du Bassin du Congo, il est historiquement plus virulent, avec un taux de létalité variant entre 1 % et 10 %.</p></li>
-<li><p>Clade II : Précédemment appelé clade d’Afrique de l’Ouest avec un taux de létalité &lt; 3%.</p></li>
-</ul>
-<p>Le virus a été découvert pour la première fois en 1958 chez des singes de laboratoire. Le premier cas humain a été signalé en 1970 en République Démocratique du Congo (RDC).</p>
-<ul>
-<li><strong>Modes de Transmission</strong></li>
-</ul>
-<p>Le mpox se transmet par plusieurs voies:</p>
-<ul>
-<li><p>Transmission zoonotique : Le virus est principalement transmis des animaux infectés aux humains, notamment par morsures ou griffures d’animaux comme les primates, les rongeurs, les antilopes, les gazelles et les écureuils. La transmission peut également survenir lors d’activités telles que la chasse, le dépouillage, le piégeage, la cuisson et la consommation de viande. L’étendue de la circulation virale chez les animaux reste encore mal comprise.</p></li>
-<li><p>Transmission interhumaine : Entre personnes, le mpox se propage par contact direct avec la peau ou les lésions cutanéo-muqueuses d’une personne infectée. Cela inclut les contacts étroits tels que peau à peau, ainsi que la transmission par inhalation de gouttelettes respiratoires. La possibilité de transmission par aérosols à faible portée est encore en cours d’évaluation.</p></li>
-<li><p>Contact avec des objets contaminés : Le virus peut aussi se transmettre par contact avec des objets contaminés, comme des vêtements ou du linge de lit, ayant été en contact avec les fluides corporels ou les lésions d’une personne infectée.</p></li>
-<li><p>Transmission in utero : La transmission de l’orthopoxvirus simien de la mère à l’enfant pendant la grossesse a été documentée, avec des issues variées telles que la naissance d’un nourrisson en bonne santé, des avortements spontanés, ou une mort fœtale, comme observé dans un cas où l’enfant mort-né présentait une éruption cutanée confirmée comme étant</p></li>
-<li><p><strong>Symptômes et Signes Cliniques</strong></p></li>
-</ul>
-<p>Les symptômes initiaux du mpox incluent une fièvre, des maux de tête, des douleurs musculaires et une fatigue générale. Ces symptômes sont suivis par l’apparition d’une éruption cutanée qui évolue progressivement en pustules avant de se transformer en croûtes. La période d’incubation de la maladie varie entre 5 et 21 jours.</p>
-<ul>
-<li><strong>Mesures de Prévention pour les Voyageurs</strong></li>
-</ul>
-<p>Pour minimiser le risque de contracter le mpox, il est recommandé de rester informé des risques et des symptômes potentiels. Informez ouvertement vos contacts proches, y compris vos partenaires sexuels, sur les risques, sans mettre en danger votre sécurité. Il est également conseillé de ne pas consommer de viande de brousse et de maintenir une bonne hygiène des mains. De plus, il est recommandé de recevoir une primo-vaccination préventive si vous êtes dans un groupe à haut risque d’exposition. En cas de contact avec un cas confirmé, la vaccination préventive postexposition est efficace si administrée dans les quatre jours suivant l’exposition, et jusqu’à 14 jours en l’absence de symptômes. Les vaccins approuvés pour cette prévention incluent LC16-KMB, MVA-BN et OrthopoxVac, avec l’option d’utiliser également le vaccin ACAM2000.</p>
-<p>Suivez les directives médicales et des autorités locales si vous êtes diagnostiqué, et ne partagez que des informations fiables sur la maladie.</p>
-<ul>
-<li><strong>Actions à Entreprendre en Cas de Symptômes</strong></li>
-</ul>
-<p>En présence de symptômes suggestifs du mpox, il est crucial de consulter immédiatement un professionnel de santé. Il est également recommandé de s’isoler afin de prévenir la propagation du virus et d’informer les autorités sanitaires locales. Les participants à la réunion recevront une liste des centres de santé et des contacts d’urgence pour faciliter une prise en charge rapide.</p>
-<p>Informations Supplémentaires</p>
-<p>Pour obtenir des informations plus détaillées, vous pouvez consulter le site web de l’<a href="https://www.who.int/news-room/fact-sheets/detail/monkeypox">OMS</a>. Des mises à jour régulières sur la situation en RDC et les risques liés au mpox sont également disponibles <a href="https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON522">ici</a>.</p>
-</section>
+<p>La réunion se tiendra du <strong>15 au 21 décembre 2025</strong> à l’hôtel <em>Leydia</em> de la ville de Matadi<br> Email: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a>-Téléphone : +243 89 763 44 12 / +243 81 488 58 05</p>
 </section>
 <section id="perdiem" class="level3">
 <h3 class="anchored" data-anchor-id="perdiem">Perdiem</h3>
-<p>Le taux de per diem Nations-Unies à Kinshasa est à 644 000 Francs Congolais (CDF) soit US$ 231. Pour tous les participants pris en charge par l’OMS, des déductions de 50% pour l’hébergement (durant tout le séjour) et 10% pour les déjeuners, (uniquement pendant les jours des réunions) sont à appliquer sur les TRs. Les déjeuners et pauses café de groupe seront servis durant l’atelier et offert payés par l’OMS. Les dîners pris en charge par chaque participant. Il est vivement recommandé à tous les participants pris en charge par l’OMS de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.</p>
+<p>Les participants recevront un perdiem conforme au taux GIBS applicable. Les pauses café de groupe seront servies durant l’atelier et offert payés par l’organisation. Tout autre repas sera pris en charge par chaque participant. Il est vivement recommandé à tous les participants pris en charge par l’organisation de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.</p>
 </section>
 <section id="monnaie" class="level3">
 <h3 class="anchored" data-anchor-id="monnaie">Monnaie</h3>
-<p>La monnaie officielle de la RDC est le Franc Congolais (FC). Le taux de change : 1 USD = 2830 FC (juillet 2024). La devise américaine (USD) est acceptée dans tous les commerces de la RDC.</p>
+<p>La monnaie officielle de la RDC est le Franc Congolais (FC). Le taux de change : 1 USD = 2300 FC (Decembre 2025). La devise américaine (USD) est acceptée dans tous les commerces de Matadi.</p>
 </section>
-<section id="accueil-à-kinshasa" class="level3">
-<h3 class="anchored" data-anchor-id="accueil-à-kinshasa">Accueil à Kinshasa</h3>
-<p>Les participants seront accueillis à l’Aéroport International de N’Djili et au Beach Ngobila, ils sont priés de communiquer leurs plans de vol (compagnie aérienne, N° de vol, Date et heure d’arrivée) à Mr Alain <a href="mailto:elofae@who.int">elofae@who.int</a>; et à Mesdamnes Raissa Mabika: <a href="mailto:mabikar@who.int">mabikar@who.int</a>; Linda Afi Djinkou : <a href="mailto:afil@who.int">afil@who.int</a>. A l’arrivée, un véhicule de l’OMS sera disponible à l’aéroport et au Beach pour vous conduire directement à l’hôtel. La même logistique sera disponible pour le retour.</p>
+<section id="accueil-à-matadi" class="level3">
+<h3 class="anchored" data-anchor-id="accueil-à-matadi">Accueil à Matadi</h3>
+<p>Pour les agents du MSHPH, l’organisation mettra à leur disposition un moyen de transport pour le trajet Kinshasa-Matadi-Kinshasa. Par ailleurs, l’organisation couvrira les frais de transport pour les trajets entre les provinces et Kinshasa.</p>
+<p>Les participants sont responsables de leur déplacement dans la ville de Matadi. Aucune disposition particulière ne sera mise en place pour leur réception à Matadi. Toutefois, nous encourageons les participants à contacter la cellule de suivi et evaluation du PEV <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a> pour plus amples informations.</p>
 </section>
 <section id="prévention-des-méconduites-sexuelles" class="level3">
 <h3 class="anchored" data-anchor-id="prévention-des-méconduites-sexuelles">Prévention des Méconduites Sexuelles</h3>
-<p>Un briefing sur la prévention des méconduites sexuelles sera dispensé aux membres de la mission à leur arrivée (généralement en synchronisation avec le briefing de sécurité). Il est demandé à tous les membres de la mission de compléter les deux formations obligatoires en ligne avant leur arrivée en République Démocratique du Congo.</p>
+<p>Un briefing sur la prévention des méconduites sexuelles sera dispensé aux membres de la mission à leur arrivée (généralement en synchronisation avec le briefing de sécurité).</p>
 </section>
 <section id="securité" class="level3">
 <h3 class="anchored" data-anchor-id="securité">Securité</h3>
-<p>La situation sécuritaire à Kinshasa est relativement calme. Les menaces liées à la sécurité auxquelles les personnes peuvent être confrontées à Kinshasa sont principalement de la criminalité et des troubles civils. La criminalité est répandue à Kinshasa, y compris dans la commune de Gombe au centre-ville. Les activités criminelles comprennent le vol à la tire, le pickpocket, les cambriolages, les braquages d’individus et de véhicules. Les criminels concentrent leurs attaques sur les personnes perçues comme ayant de l’argent ou des objets de valeur. Les acteurs criminels identifiés sont les enfants de la rue communément appelés « Shegués », les gangs organisés « Kulunas ». Il est conseillé d’éviter les grands rassemblements publics, en particulier les manifestations politiques. Il est également important d’être conscient du danger que peut représenter la circulation routière à Kinshasa. Les accidents de la route sont très fréquents à Kinshasa où le code de la route est très peu respecté par les usagers. L’utilisation des transports en commun (bus et taxis jaunes) est déconseillée. Il est conseillé d’utiliser les sociétés de transport privées recommandées ci-dessous :</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.yandex.yango&amp;pcampaignid=web_share">YANGO APP</a>, <a href="https://carnayo.com/">CARNAYO APP</a>, <a href="https://play.google.com/store/apps/details?id=com.maajabucabb.user&amp;pcampaignid=web_share">MAAJABU CABB</a> : téléchargez l’application sur App store ou google play. <a href="https://play.google.com/store/apps/details?id=com.jefferytravels.taxi&amp;pcampaignid=web_share">JEFFERY TAXI</a> : Tél : +243844487777 / 0808307777 - Email : <a href="mailto:ruffin@jefferytravels.com">ruffin@jefferytravels.com</a> ; <a href="mailto:taxi@jefferytravels.com">taxi@jefferytravels.com</a>.</p>
+<p>La situation sécuritaire à Matadi est relativement calme. Les menaces liées à la sécurité auxquelles les personnes peuvent être confrontées à Matadi sont principalement de la criminalité et des troubles civils. La criminalité est répandue à Matadi, y compris dans la commune de XXXXXXX. Les activités criminelles comprennent le vol à la tire, le pickpocket, les cambriolages, les braquages d’individus et de véhicules. Les criminels concentrent leurs attaques sur les personnes perçues comme ayant de l’argent ou des objets de valeur. Les acteurs criminels identifiés sont les enfants de la rue communément appelés « Shegués », les gangs organisés « Kulunas ». Il est conseillé d’éviter les grands rassemblements publics, en particulier les manifestations politiques. Il est également important d’être conscient du danger que peut représenter la circulation routière à Matadi. Les accidents de la route sont très fréquents à Kinshasa où le code de la route est très peu respecté par les usagers.</p>
 <p>Il est recommandé de respecter les précautions de sécurité habituelles et de contacter le responsable de la sécurité et son assistant aux coordonnées ci-après :</p>
-<p>Mr.&nbsp;Hilaire BOIDOU, Field Security Officer, WHO DRC, Tel: +243 817 006 403 ; e-mail: <a href="mailto:boidouh@who.int">boidouh@who.int</a> Mr Vincent SUMBU NZALAKANDA, Security assistant, WHO DRC, Tel: +243 810 613 659 ; e-mail: <a href="mailto:sumbuv@who.int">sumbuv@who.int</a></p>
+<p>XXXXXXXXXX XXXXXXXXXXX</p>
 </section>
 <section id="hébergement" class="level3">
 <h3 class="anchored" data-anchor-id="hébergement">Hébergement</h3>
-<p>Tous les participants seront logés à l’hôtel Pullman. L’hébergement (chambre + petit déjeuner) sera à la charge de l’OMS. Tous les frais supplémentaires et autres dépenses engagés (extras) doivent être réglés par chaque participant avant son départ de l’hôtel. L’OMS ne saurait être tenue pour responsable en aucune circonstance, l’OMS ne saurait en être tenue pour responsable. Toute dépense non prise en charge par l’OMS et non réglée sera transmise aux pays et aux structures de gestion des participants concernés.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://cdn.luxeglobalawards.com/cdn-cgi/image/width=1440,fit=contain,quality=85,format=auto/production/Vvhm02NDPCriWdGYMj9fIBEPOv2yPAzf-Pullman%20fa%C3%83%C2%A7ade.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://cdn.luxeglobalawards.com/cdn-cgi/image/width=1440,fit=contain,quality=85,format=auto/production/Vvhm02NDPCriWdGYMj9fIBEPOv2yPAzf-Pullman%20fa%C3%83%C2%A7ade.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
-</figure>
-</div>
-<p>Deux (02) autres hôtels ont été identifiés pour l’hébergement des participants. Il s’agit de : Hôtel Royal (<a href="maito:info@hotelroyaldrc.com">info@hotelroyaldrc.com</a>) et Selton (<a href="maito:info@hotelselton.com">info@hotelselton.com</a>) où le coût de la chambra a été négocié à 130 USD, petit déjeuner inclus.</p>
-<p>A cet effet, il est prié à chaque participant d’envoyer sa demande de réservation d’hôtel et son itinéraire de vol, le plus tôt possible à Mr Alain <a href="mailto:elofae@who.int">elofae@who.int</a>; et à Mesdamnes Raissa Mabika: <a href="mailto:mabikar@who.int">mabikar@who.int</a>; Linda Afi Djinkou : <a href="mailto:afil@who.int">afil@who.int</a>.</p>
-<p>Des dispositions sont prises pour assurer le transport des participants des hôtels vers Pullman et vice versa pendant les jours de la réunion.</p>
+<p>Tous les participants ont un libre choix de leurs hotels. Toutefois, nous les encourageons à loger aux environ de l’hotel Leydia.</p>
 </section>
 <section id="climat" class="level3">
 <h3 class="anchored" data-anchor-id="climat">Climat</h3>
-<p>La RDC, a une superficie de 2 345 000 Km2 et une population estimée à 102 millions d’habitants, elle constitue un patrimoine culturel exceptionnel avec près de 450 ethnies. La diversité culturelle, artistique et linguistique constitue l’une des grandes richesses de la RDC. La ville connaît deux saisons réparties comme suit : la saison sèche, de mai à septembre et la saison des pluies, d’octobre à avril. Pendant le mois de mars qui correspond à la saison des pluies il y a d’intense soleil, les températures oscillent entre 30°C et 35°C.</p>
+<p>La RDC, a une superficie de 2 345 000 Km2 et une population estimée à 102 millions d’habitants, elle constitue un patrimoine culturel exceptionnel avec près de 450 ethnies. La diversité culturelle, artistique et linguistique constitue l’une des grandes richesses de la RDC. La ville de Matadi connaît deux saisons réparties comme suit : la saison sèche, de mai à septembre et la saison des pluies, d’octobre à avril. Pendant le mois de décembre qui correspond à la saison des pluies, il y a d’intense soleil, les températures oscillent entre 30°C et 35°C.</p>
 </section>
 <section id="langues" class="level3">
 <h3 class="anchored" data-anchor-id="langues">Langues</h3>
-<p>Le français est la langue administrative officielle et le lingala est la langue locale parlée à Kinshasa. Sur le plan linguistique, le pays compte 4 langues nationales à savoir : le lingala, le kikongo, le tshiluba et le swahili ainsi que plus de 400 dialectes.</p>
+<p>Le français est la langue administrative officielle, le lingala et le kikongo sont les principales langues locales parlées à Matadi.</p>
 </section>
 <section id="appels-telephoniques-internationaux-acces-internet" class="level3">
 <h3 class="anchored" data-anchor-id="appels-telephoniques-internationaux-acces-internet">Appels Telephoniques Internationaux/ Acces Internet</h3>
-<p>Des installations pour les appels téléphoniques internationaux et l’accès à internet sont disponibles à l’Hôtel. Les cartes téléphoniques et cartes SIM locales sont vendues à l’aéroport, à l’Hôtel et dans les magasins de la ville.</p>
+<p>Des installations pour les appels téléphoniques internationaux et l’accès à internet sont disponibles à l’Hôtel Leydia. Les cartes téléphoniques et cartes SIM locales sont vendues dans les magasins de la ville.</p>
 </section>
 <section id="heure-locale" class="level3">
 <h3 class="anchored" data-anchor-id="heure-locale">Heure Locale</h3>
@@ -1055,27 +1082,25 @@
 </section>
 <section id="électricité" class="level3">
 <h3 class="anchored" data-anchor-id="électricité">Électricité</h3>
-<p>Le courant électrique en RDC varie entre 3,22 et 4,89 kWh/m2/j. Les prises recommandées sont deux broches rondes</p>
+<p>Le courant électrique en RDC varie entre 3,22 et 4,89 kWh/m2/j. Les prises recommandées sont deux broches rondes.</p>
 </section>
 <section id="adresse-et-contactcs-utiles" class="level3">
 <h3 class="anchored" data-anchor-id="adresse-et-contactcs-utiles">Adresse et Contactcs Utiles</h3>
-<p><strong>Bureau Pays:</strong></p>
 <ul>
-<li>Dr Boureima Hama SAMBO; Représentant OMS RDC, Tél. +243817006400, email: <a href="mailto:sambob@who.int">sambob@who.int</a></li>
-<li>Dr Jean Baptiste NIKIEMA, Représentant Adjoint OMS RDC, Tél +243814720592, email: <a href="mailto:nikiemaje@who.int">nikiemaje@who.int</a></li>
-<li>M. Pierre Claver LESSIMI, Senior Operations Officer, OMS RDC Tél +243 817 006 401, email: <a href="mailto:lessimip@who.int">lessimip@who.int</a></li>
-<li>Dorine Irabona, Senior Operations Manager, UNICEF RDC, Tel :+243996050399, Portable :+243811026127, email: <a href="mailto:dirabona@unicef.org">dirabona@unicef.org</a></li>
-<li>Mme Carine ANO, Management and Administration Officer, Tél +243837233774, email: <a href="mailto:anoc@who.int">anoc@who.int</a></li>
-<li>M. Elofa Alain, Travel Assistant, Tél. +243 819700610, email: <a href="mailto:elofae@who.int">elofae@who.int</a></li>
+<li>Direction PEV: <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></li>
+<li>Suivi et Évaluation PEV: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></li>
+<li>Chef de division provinciale du Congo central: +243 85 612 96 60</li>
+<li>Médécin chef d’antenne Matadi: +243 89 86 15 181</li>
+<li>Chef de Bureau OMS Matadi: +243 81 89 98 506 <!-- - Unicef: [amudipanu@unicef.org](amudipanu@unicef.org)- Tel: +243 81 45 87 908]: --></li>
 </ul>
 
 
 </section>
 </section>
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Tue, 02 Dec 2025 07:25:55 GMT</pubDate>
+  <pubDate>Tue, 09 Dec 2025 10:29:28 GMT</pubDate>
 </item>
 </channel>
 </rss>

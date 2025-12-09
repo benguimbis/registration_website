@@ -11,7 +11,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Attention** - Cette information est importante"
+    content: "**Attention** - Les inscriptions fermeront le 13 décembre 2025"
     type: warning
     position: above-navbar
 
@@ -30,30 +30,30 @@ website:
         menu: 
           - text: 'Enregistrements à la réunion'
             href: epi/enregistrement.qmd
-          - text: 'Enregistrements journée 1'
-            href: epi/jour1.qmd
-          - text: 'Enregistrements journée 2'
-            href: epi/jour2.qmd            
-          - text: 'Enregistrements journée 3'
-            href: epi/jour3.qmd
-          - text: 'Enregistrements journée 4'
-            href: epi/jour4.qmd            
-          - text: 'Enregistrements journée 5'
-            href: epi/jour5.qmd            
+#          - text: 'Enregistrements journée 1'
+#            href: epi/jour1.qmd
+#          - text: 'Enregistrements journée 2'
+#            href: epi/jour2.qmd            
+#          - text: 'Enregistrements journée 3'
+#            href: epi/jour3.qmd
+#          - text: 'Enregistrements journée 4'
+#            href: epi/jour4.qmd            
+#          - text: 'Enregistrements journée 5'
+#            href: epi/jour5.qmd            
 
       - text: Agenda et Présentations
         icon: calendar-date-fill
         menu: 
           - text: "Agenda"
             href: epi/agenda.qmd
-          - text: "Jour 1"
-            href: epi/day1.qmd
-          - text: "jour 2"
-            href: epi/day2.qmd
-          - text: "Jour 3"
-            href: epi/day3.qmd
-          - text: "Jour 4"
-            href: epi/day4.qmd
+#          - text: "Jour 1"
+#            href: epi/day1.qmd
+#          - text: "jour 2"
+#            href: epi/day2.qmd
+#          - text: "Jour 3"
+#            href: epi/day3.qmd
+#          - text: "Jour 4"
+#            href: epi/day4.qmd
       - text: Note d'information
         href: epi/note.qmd
         icon: bi-airplane-fill

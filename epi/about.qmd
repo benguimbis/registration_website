@@ -8,11 +8,11 @@ image: header.png
 
 Pour toute information à propos de la reunion, veuillez contacter
 
-**Mme Raïssa Moussounda Mabika** <br/>{{< fa envelope title = "email">}} [mabikar@who.int](mailto:mabikar@who.int?subject=Reunion PEV Kinshasa)
+**Direction PEV** <br/>{{< fa envelope title = "email">}} [directionpevrdc@gmail.com](mailto:directionpevrdc@gmail.com)
 
-**Mr Alain Elofa**<br/>{{< fa envelope title = "email">}} [elofae@who.int](mailto:elofae@who.int?subject=Reunion PEV Kinshasa)
+**Suivi et Évaluation PEV** <br/>{{< fa envelope title = "email">}} [suivievaluationpev@gmail.com](mailto:suivievaluationpev@gmail.com)
 
- **Dr Franck Mboussou**<br/>{{< fa envelope title = "email">}} [mboussouf@who.int](maito:mboussouf@who.int?subject=Reunion PEV Kinshasa)
+
 
 
 

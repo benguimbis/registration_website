@@ -23,7 +23,7 @@ N’hésitez pas à nous contacter si vous avez des questions ou des préoccupat
  &nbsp;&nbsp;&nbsp; <div>
 
 ```{=html}
-<embed width="600px" height="1400px" src="https://worldhealthorg.shinyapps.io/inscriptions_revue_rdc/" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100%; color: #ffffff" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </embed>
+<embed width="800px" height="950px" src="https://worldhealthorg.shinyapps.io/inscriptions_revue_rdc/" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100%; color: #ffffff" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </embed>
 
 ```
 
