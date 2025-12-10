@@ -1,17 +1,17 @@
 ---
 title: "Agenda"
 description: "<strong>Agenda des quatre jours de reunion</strong>"
-format: 
-  html:
-    other-links: 
-      - text: "Présentations jour 1"
-        href: day1.html
-      - text: "Présentations jour 2"
-        href: day2.html
-      - text: "Présentations jour 3"
-        href: day3.html
-      - text: "Présentations jour 4"
-        href: day4.html
+format: html
+#  html:
+#    other-links: 
+#      - text: "Présentations jour 1"
+#        href: day1.html
+#      - text: "Présentations jour 2"
+#        href: day2.html
+#      - text: "Présentations jour 3"
+#        href: day3.html
+#      - text: "Présentations jour 4"
+#        href: day4.html
 #image: /static/img/business-time-solid.svg
 title-block-banner: false
 execute: 

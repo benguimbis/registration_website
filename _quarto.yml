@@ -11,8 +11,8 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Attention** - Les inscriptions fermeront le 13 décembre 2025"
-    type: warning
+    content: "**Plateforme dévéloppée avec l'appui de l'Organisation Mondiale de la Santé (OMS)**<br>*Les inscriptions fermeront le 13 décembre 2025*"
+    type: success
     position: above-navbar
 
   
@@ -66,8 +66,10 @@ website:
   
   page-footer:
     left: |
+      Plateforme dévéloppée avec l'appui de l'Organisation Mondiale de la Santé (OMS) <br>
       {{< fa regular copyright >}} PEV-RDC 2025<br>      
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org)
+      
     right:
       - text: <img src = "/static/img/footer.png" alt = "Unicef" width = "529px" height = "59px">
         aria-label: PEV-RDC
@@ -92,6 +94,9 @@ format:
       - text: "Telecharger Agenda"
         icon: download
         href: meeting.ics
+      - text: "Termes de référence"
+        icon: download
+        href: TDR revue annuelle.pdf
 
 execute:
   freeze: auto

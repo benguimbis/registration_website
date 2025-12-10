@@ -12,8 +12,7 @@ Pour toute information à propos de la reunion, veuillez contacter
 
 **Suivi et Évaluation PEV** <br/>{{< fa envelope title = "email">}} [suivievaluationpev@gmail.com](mailto:suivievaluationpev@gmail.com)
 
-
-
+**Chargé des services généraux** <br/> {{< fa phone title = "phone">}} +243 818 153 075
 
 
 

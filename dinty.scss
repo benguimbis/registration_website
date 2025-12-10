@@ -143,4 +143,11 @@ pre, code, kdb, samp {
 
 //div#quarto-margin-sidebar{}
 
-
+.img-fluid{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  object-position: center;
+  
+}
